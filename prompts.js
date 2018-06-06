@@ -9,8 +9,8 @@ server.listen(process.env.port || process.env.PORT || 3978, function() {
 
 //Conectar con un canal de chat tipo Skype, FB Messenger, etc...
 var connector = new builder.ChatConnector({
-    appId: '',
-    appPassword: ''
+    appId: BOT_APP_ID,
+    appPassword: BOT_PASSWORD
 });
 
 //Crear un UniversalBot
