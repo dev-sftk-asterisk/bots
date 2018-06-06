@@ -1,0 +1,23 @@
+{
+  "name": "Bots",
+  "version": "1.0.0",
+  "description": "/*************************************************\r  * This file was created from Visual Studio Code *\r  *************************************************/",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-sftk-asterisk/bots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-sftk-asterisk/bots/issues"
+  },
+  "homepage": "https://github.com/dev-sftk-asterisk/bots#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0"
+  }
+}
